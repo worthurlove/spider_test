@@ -12,3 +12,5 @@ creating a new branch is quick
 creating a second master branch
 
 test no-ff
+
+git is a free software
