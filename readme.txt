@@ -13,4 +13,8 @@ creating a second master branch
 
 test no-ff
 
+<<<<<<< HEAD
 now i have a change
+=======
+git is a free software
+>>>>>>> master
