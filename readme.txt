@@ -10,3 +10,5 @@ well ,this is a stage test
 creating a new branch is quick
 
 creating a second master branch
+
+test no-ff
