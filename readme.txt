@@ -6,3 +6,5 @@ now ,this is the first change
 now ,this is the second change
 
 well ,this is a stage test
+
+creating a new branch is quick
